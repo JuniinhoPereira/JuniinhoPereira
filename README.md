@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Juniinho Pereira 👋
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React
+- 🔭 Hoje trabalho como Runner da RCout
+- 🌱 Estudando HTML, CSS, JS e React
 
 <div>
   <a href="https://github.com/JuniinhoPereira">
